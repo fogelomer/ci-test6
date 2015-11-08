@@ -1,0 +1,4 @@
+test:
+  override:
+    - sudo ./test6.sh
+
